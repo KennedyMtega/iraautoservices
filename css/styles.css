@@ -505,11 +505,11 @@ img {
 }
 
 .hero-slide:nth-child(2) {
-    background-image: url('../assets/images/mbezi branch jogoo.jpg');
+    background-image: url('../assets/images/wheel alignment.jpg');
 }
 
 .hero-slide:nth-child(3) {
-    background-image: url('../assets/images/sinza branch.JPG');
+    background-image: url('../assets/images/ira tyre services.JPG');
 }
 
 .hero-slide:nth-child(4) {
@@ -517,19 +517,15 @@ img {
 }
 
 .hero-slide:nth-child(5) {
-    background-image: url('../assets/images/ira baterry services.JPG');
+    background-image: url('../assets/images/mbezi branch jogoo.jpg');
 }
 
 .hero-slide:nth-child(6) {
-    background-image: url('../assets/images/ira minor services.JPG');
+    background-image: url('../assets/images/sinza branch.JPG');
 }
 
 .hero-slide:nth-child(7) {
     background-image: url('../assets/images/ira painting service.JPG');
-}
-
-.hero-slide:nth-child(8) {
-    background-image: url('../assets/images/ira tyre services.JPG');
 }
 
 .hero-overlay {
